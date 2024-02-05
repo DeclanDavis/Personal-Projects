@@ -92,6 +92,6 @@ public class RockPaperScissors {
 			myGuess.equals("Rock") && compGuess.equals("Paper") || 
 			myGuess.equals("Scissors") && compGuess.equals("Rock")) {
 				System.out.println("You lose! Better luck next time!");
-					}	
+			}	
 		}
 }
